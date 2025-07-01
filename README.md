@@ -31,7 +31,7 @@ Cached image should be valid for 4 hours. Also, the library should support manua
 ## ⚙️ Installation
 Clone the repository:
 ``bash
-git clone https://github.com/vasichevda/rounds
+git clone https://github.com/vasichevda/rounds.git
 
 ## 📜 License
 MIT License  
