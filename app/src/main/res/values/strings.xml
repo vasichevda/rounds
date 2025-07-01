@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">imageLoader</string>
+    <string name="item_image_description">image</string>
+</resources>
